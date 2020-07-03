@@ -1,0 +1,14 @@
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.exe
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.csprojAssemblyReference.cache
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfoInputs.cache
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfo.cs
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.deps.json
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.json
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.dev.json
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.dll
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.pdb
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CopyComplete
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.dll
+D:\AspNetCoreAndAngular\Microservices\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.pdb
